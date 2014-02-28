@@ -1,0 +1,13 @@
+{
+    "name": "jeresig/jquery.hotkeys",
+    "description": "Fork of John Resig's project.",
+    "authors": [
+        {
+            "name": "John Resig",
+            "email": "jeresig@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
